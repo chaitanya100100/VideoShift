@@ -22,6 +22,7 @@ The modified datasets used in training the baseline VideoShift benchmark include
 - [homage.zip](https://videoshift-benchmark.s3.amazonaws.com/homage.zip) (228GB)
 - [interactadl.zip](https://videoshift-benchmark.s3.amazonaws.com/interactadl.zip) (46GB)
 - [wage.zip](https://videoshift-benchmark.s3.amazonaws.com/wage.zip) (1.6GB)
+- [videoshift_benchmark.zip](https://videoshift-benchmark.s3.amazonaws.com/videoshift_benchmark.zip) (275G) contains all of the three datasets above.
 
 ## Folder Structure Details
 Each sub-dataset includes the following:
