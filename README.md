@@ -1,2 +1,3 @@
 # VideoShift
-A distribution shift benchmark for video-language models
+This repo contains information about 'VideoShift' benchmark and download instructions for its three datasets: HOMAGE, InteractADL, and WAGE.
+
